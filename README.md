@@ -1,0 +1,1 @@
+In this website user can select any of search algorith( it contain Linear,Binary,jump search ) when user select so it show step by step execution of that algorithm and show how the searching will work also show the time complexity and steps to that searching algorithm..
